@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+<html>
+<header>
+<link rel="icon" 
+      type="image/png" 
+      href="EmblemIcon.png">
+<title>Rabieh 1 Group C&C</title>
+<script src="SHA256.js"></script>
+</header>
+
+
+<body>
+<center>
+<img src="R1 Signature.png"><br>
+This page is Rabieh 1 Group's Command and Control page,<br> it contains manuals and directives relevant to Rabieh 1.<br>
+To verify that the file containing a specific manual or directive has not been tampered with,<br>
+please hash the specific file using the SHA256 algorithm and compare the result to the respective hash in this list.
+<br>
+
+<br>
+Select a file to calculate it's SHA256 hash value:<br><br>
+<input type='file' id="FileToHash" onchange='openFile(event)'><br><br>
+<div id="Hash"></div>
+<script>
+  var openFile = function(event) {
+    var input = event.target;
+
+    var reader = new FileReader();
+    reader.onload = function(){
+	var a =reader.result;
+	     
+      document.getElementById("Hash").innerHTML=rstr2hex(rstr_sha256(a));
+    };
+    reader.readAsBinaryString(input.files[0]);
+  };  
+</script>
+
+<br>
+Download Manuals:<br>
+<a href="Manual for Handling Personal and Scouting Records.pdf">Manual for Handling Personal and Scouting Records.pdf</a>
+<br>
+Manual for Handling Personal and Scouting Records Hash: a0be00c2be5936a0b1cb0f65699c99b744ee7a68582d06d3f16876419944e65a<br>
+<a href="Manual for Forwarding Unit Emails to Other Email.pdf">Manual for Forwarding Unit Emails to Other Email.pdf</a>
+<br>
+Manual for Forwarding Unit Emails to Other Email Hash: 1da22462df54479995207368ec5d718aa418b25603e47ec201b299d2feedec08<br>
+<br>
+Download Directives:<br>
+<a href="Personal and Scouting Records Directive.pdf">Personal and Scouting Records Directive.pdf</a>
+<br>
+Personal and Scouting Records Directive Hash: 58aacb7dfb128f38b5d82c3e08b2e611363c0d271fde6b04133ea178b1610c76<br>
+
+</center>
+</body>
+</html>
