@@ -1,0 +1,58 @@
+﻿.tasklistitem {
+width:30%;
+padding:0.5%;
+display:inline-block;
+}
+
+.divTable1 {
+    display: table;
+
+}
+.divTableRow1 {
+    display: table-row;
+}
+.divTableRow1H {
+    display: none;
+}
+.divTableHeading1 {
+	background-color: #ffffff;
+	display: table-header-group;
+}
+.divTableCell1, .divTableHead1 {
+	border-left: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-right: 1px solid #000000;
+	display: table-cell;
+	padding: 3px 10px;
+    width:15%;
+}
+.divTableHeading1 {
+	background-color: #ffffff;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot1 {
+	background-color: #ffffff;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody1 {
+	display: table-row-group;
+}
+.tasklistitem .Details {
+	padding-left:90%;
+}
+#divTableCell1EndL {
+	border-right:none;
+}
+#divTableCell1EndR {
+	border-left:none;
+}
+.tasklistitem .divTableRow1E {
+    display: table-row;
+    cursor:pointer;
+}
+.tasklistitem .divTableRow1E:hover{
+    background-color:#ff0000;
+}

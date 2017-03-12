@@ -1,0 +1,10 @@
+﻿.body{
+    font-weight:bold;
+    text-align:center;
+}
+
+.body .title{
+    font-size:large;
+}
+    .body .text {
+    }
