@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Br1 Group - Task List</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="LSA Br1 Group's Scout Badges Based on UK Scouts" />
+    <meta name="keywords" content="Scouts, WOSM, UK Scouts, LSA, Lebanese Scout Association, Broummana, BHS, Broummana One Group, Br1" />
+    <meta name="author" content="Knowledgeable Mammoth" />
+    <link rel="icon" href="../Images/EmblemIcon.png" type="image/png" sizes="16x16">
+    <link href="../Styles/header.css" rel="stylesheet" />
+    <link href="../Styles/main.css" rel="stylesheet" />
+    <link href="../Styles/body.css" rel="stylesheet" />
+    <link href="../Styles/task.css" rel="stylesheet" />
+    <link href="../Styles/modal.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-3.1.1.min.js"></script>
+    <script src="../Scripts/taskscript.js"></script>
+</head>
+<body>
+    <div class="header">
+        <img src="../Images/Br1 Header.png" class="headerimage">
+        <div class="divTable">
+            <div class="divTableBody">
+                <div class="divTableRow">
+                    <div class="divTableCell" style="border-left: 2px solid"><a href="../index.html" class="headerlink">Home</a></div>
+                    <div class="divTableCell"><a href="../books.html" class="headerlink">Section Books</a></div>
+                    <div class="divTableCell"><a href="../board.html" class="headerlink">Board</a></div>
+                    <div class="divTableCell" style="border-right: 2px solid"><a href="../DenGame/rules.html" class="headerlink">Den Game</a></div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="divTable">
+            <div class="divTableBody">
+                <div class="divTableRow">
+                    <div class="divTableCell" style="border-left: 2px solid"><a href="../DenGame/rules.html" class="headerlink">Rules</a></div>
+                    <div class="divTableCell"><a href="../DenGame/tasks.html" class="headerlink">Task List</a></div>
+                    <div class="divTableCell"><a href="../DenGame/prizes.html" class="headerlink">Prize List</a></div>
+                    <div class="divTableCell" style="border-right: 2px solid"><a href="../DenGame/scores.html" class="headerlink">Score Board</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br /><br />
+    <div class="body">
+        <div class="title">List of Tasks:</div>
+        <br />
+        <div class="text">
+            <div id="list">
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <br /><br />
+            <div class="divTable2">
+                <div class="divTableBody2">
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid; border-top: 2px solid">Task ID:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid; border-top: 2px solid"><div id="TaskID"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Task Name:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="TaskName"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Total Points:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="Points"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Estimated Time Needed:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="Time"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Booked By:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="BookedBy"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Booking Date:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="BookDate"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Booking Status:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="BookingStatus"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid">Sub Tasks:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid"><div id="SubTasks"></div></div>
+                    </div>
+                    <div class="divTableRow2">
+                        <div class="divTableCell2" style="border-left: 2px solid; border-bottom: 2px solid">Comments:</div>
+                        <div class="divTableCell2" style="border-right: 2px solid; border-bottom: 2px solid"><div id="Comments"></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <br />
+
+    <script>
+        var modal = document.getElementById('myModal');
+        var span = document.getElementsByClassName("close")[0];
+
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
