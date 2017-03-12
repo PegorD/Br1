@@ -39,6 +39,7 @@
 .divTable2 {
     display: table;
     width:100%;
+    font-weight:bold;
 }
 .divTableRow2 {
     display: table-row;
