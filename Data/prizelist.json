@@ -1,0 +1,40 @@
+﻿{
+    "PrizeList": [
+        {
+            "PrizeName": "Dinner",
+            "Description": "The winning team will get a voucher for 200$ to eat at their prefered diner."
+        },
+        {
+            "PrizeName": "Arnaoon",
+            "Description": "The winning team will get to spend a day at Arnaoon Village."
+        },
+        {
+            "PrizeName": "Bowling Dinner",
+            "Description": "The winning team will get to eat and play bowling at the Link."
+        },
+        {
+            "PrizeName": "Escape the Room",
+            "Description": "The winning team will get to play a game of Escape the Room."
+        },
+        {
+            "PrizeName": "Beirut by Segway",
+            "Description": "The winning team will get to spend a day driving segways in Beirut."
+        },
+        {
+            "PrizeName": "Paintball or Laser Tag",
+            "Description": "The winning team will get play paintball or laser tag, the team must have at least 8 members."
+        },
+        {
+            "PrizeName": "Tent",
+            "Description": "The winning team will get a tent to be used only by the team."
+        },
+        {
+            "PrizeName": "Kayaking",
+            "Description": "The winning team will get to do some kayaking."
+        },
+         {
+            "PrizeName": "Scuba Diving Lesson",
+            "Description": "The winning team will get 200$ to help pay for Scuba diving lessons."
+        }
+    ]
+}

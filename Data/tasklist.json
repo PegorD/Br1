@@ -1,0 +1,322 @@
+﻿{
+    "TaskList": [
+        {
+            "TaskID": "0",
+            "TaskName": "Uniforms",
+            "TaskPoints": "4",
+            "Time": "1hrs 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Sort into groups. (1 Point)",
+                "Wash the dirty items. (1 Point)",
+                "Store the uniforms. (2 Points)"
+            ]
+        },
+        {
+            "TaskID": "1",
+            "TaskName": "Lost & Found",
+            "TaskPoints": "8",
+            "Time": "1hrs 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Sort into groups. (1 Point)",
+                "Check if anyone can find their missing stuff. (2 Points)",
+                "Wash the dirty items. (1 Point)",
+                "Donate the remaining clothes. (4 Points)"
+            ]
+        },
+        {
+            "TaskID": "2",
+            "TaskName": "Junk Space",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Design it. (2 Points)",
+                "Build it. (2 Points)"
+            ]
+        },
+        {
+            "TaskID": "3",
+            "TaskName": "May Queen Tents",
+            "TaskPoints": "5",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Sort tent components into groups. (2 Points)",
+                "Find out how many complete tents there are. (3 Points)"
+            ]
+        },{
+            "TaskID": "4",
+            "TaskName": "Logs",
+            "TaskPoints": "6",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Create a sample belt, to specifications, to tie logs together. (3 Points)",
+                "Make more of the belts and use them to tie all the logs. (3 Points)"
+            ]
+        },{
+            "TaskID": "5",
+            "TaskName": "First Aid Kit",
+            "TaskPoints": "3",
+            "Time": "1hr",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Get a proper first aid kit box or bag. (2 Points)",
+                "Replenish the kit, and purchase missing items. (1 Point)"
+            ]
+        },{
+            "TaskID": "6",
+            "TaskName": "Board Games",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Sort board games into groups. (2 Points)",
+                "Inventory the board games. (2 Points)"
+            ]
+        },{
+            "TaskID": "7",
+            "TaskName": "Awards",
+            "TaskPoints": "4",
+            "Time": "1hr 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Clean all of the awards. (1 Point)",
+                "Mend all broken awards. (2 Points)",
+                "Place all the awards in the glass cabinet. (1 Point)"
+            ]
+        },{
+            "TaskID": "8",
+            "TaskName": "Stationary",
+            "TaskPoints": "4",
+            "Time": "1hr 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Sort stationary items into groups. (2 Points)",
+                "Organize the stationary items into boxes. (2 Points)"
+            ]
+        },{
+            "TaskID": "9",
+            "TaskName": "Folks Gathering Crate",
+            "TaskPoints": "4",
+            "Time": "1hr 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Inventory all items in the crate. (2 Points)",
+                "Reorganize the crate. (2 Points)"
+            ]
+        },{
+            "TaskID": "10",
+            "TaskName": "Lamps",
+            "TaskPoints": "4",
+            "Time": "1hr 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Clean all the lamps. (2 Points)",
+                "Mend all broken lamps. (2 Points)"
+            ]
+        },{
+            "TaskID": "11",
+            "TaskName": "Ropes for Lashing",
+            "TaskPoints": "4",
+            "Time": "1hr 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Tie ropes properly, to specifications. (4 Points)"
+            ]
+        },{
+            "TaskID": "12",
+            "TaskName": "Ropes for Design",
+            "TaskPoints": "4",
+            "Time": "1hr 30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Tie ropes properly, to specifications. (4 Points)"
+            ]
+        },{
+            "TaskID": "13",
+            "TaskName": "Kitchen",
+            "TaskPoints": "4",
+            "Time": "1hr",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Wash kitchen utensils. (2 Points)",
+                "Store utensils. (2 Points)"
+            ]
+        },{
+            "TaskID": "14",
+            "TaskName": "Kitchen",
+            "TaskPoints": "4",
+            "Time": "1hr",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Wash kitchen utensils. (2 Points)",
+                "Store utensils. (2 Points)"
+            ]
+        },{
+            "TaskID": "15",
+            "TaskName": "Tents",
+            "TaskPoints": "4",
+            "Time": "3hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "This task is for only 3 tents.",
+            "SubTasks": [
+                "Clean and dry tents. (1 Point)",
+                "Properly fold tents and store them. (3 Points)"
+            ]
+        },{
+            "TaskID": "16",
+            "TaskName": "Tents",
+            "TaskPoints": "4",
+            "Time": "3hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "This task is for only 3 tents.",
+            "SubTasks": [
+                "Clean and dry tents. (1 Point)",
+                "Properly fold tents and store them. (3 Points)"
+            ]
+        },{
+            "TaskID": "17",
+            "TaskName": "Electricity",
+            "TaskPoints": "10",
+            "Time": "3hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Contact BHS regarding hiring and electrician. (4 Points)",
+                "Install LED lights. (4 Points)",
+                "Install more wall plugs. (4 Points)"
+            ]
+        },{
+            "TaskID": "18",
+            "TaskName": "PC & Internet",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Contact BHS regarding Internet access and fixing the LAN cable. (1 Point)",
+                "Mend the PC, back up the data on it, and install new OS. (3 Points)"
+            ]
+        },{
+            "TaskID": "19",
+            "TaskName": "Water",
+            "TaskPoints": "3",
+            "Time": "30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unvailable",
+            "Comments": "",
+            "SubTasks": [
+                "Get a water dispenser, refrigerated or otherwise. (3 Points)"
+            ]
+        },{
+            "TaskID": "20",
+            "TaskName": "Table Cover",
+            "TaskPoints": "3",
+            "Time": "30min",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Get a new transparent cover for the table. (3 Points)"
+            ]
+        },{
+            "TaskID": "21",
+            "TaskName": "Attic Cleaning",
+            "TaskPoints": "7",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Clean the attic. (7 Points)"
+            ]
+        },{
+            "TaskID": "22",
+            "TaskName": "Den Cleaning",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Clean the den. (4 Points)"
+            ]
+        },{
+            "TaskID": "23",
+            "TaskName": "Poplar Wood",
+            "TaskPoints": "20",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Remove all the nails and sand saper all the poplar wood. (7 Points)",
+                "Plaster all the cracks in the wood. (5 Points)",
+                "Varnish all the wood. (3 Points)",
+                "Saw all the weak poplar wood into 2 meter segements. (5 Points)"
+            ]
+        }
+
+    ]
+}

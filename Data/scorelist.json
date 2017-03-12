@@ -1,0 +1,32 @@
+﻿{
+     "ScoreList": [
+        {
+            "TeamName": "Deer Patrol",
+            "Points": "0 Points"
+        },
+        {
+            "TeamName": "Bee Patrol",
+            "Points": "0 Points"
+        },
+        {
+            "TeamName": "Kangaroo Patrol",
+            "Points": "0 Points"
+        },
+        {
+            "TeamName": "Horse Patrol",
+            "Points": "0 Points"
+        },
+        {
+            "TeamName": "Panther Patrol",
+            "Points": "0 Points"
+        },
+        {
+            "TeamName": "Bear Patrol",
+            "Points": "0 Points"
+        },
+         {
+            "TeamName": "Clan Team",
+            "Points": "0 Points"
+        }
+    ]
+}
