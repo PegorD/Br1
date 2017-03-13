@@ -63,9 +63,9 @@
             "TaskName": "Logs",
             "TaskPoints": "6",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Deer Patrol",
+            "BookingDate": "25/03/2017 14:00",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Create a sample belt, to specifications, to tie logs together. (3 Points)",
@@ -167,9 +167,9 @@
             "TaskName": "Ropes for Weaving",
             "TaskPoints": "4",
             "Time": "1hr 30min",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Deer Patrol",
+            "BookingDate": "25/03/2017 14:00",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Tie ropes properly, to specifications. (4 Points)"
