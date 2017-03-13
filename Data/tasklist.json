@@ -52,7 +52,7 @@
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "14/03/2017 15:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Sort tent components into groups. (2 Points)",
@@ -118,7 +118,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "14/03/2017 15:00",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Sort stationary items into groups. (2 Points)",
@@ -157,7 +157,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Bee Patrol",
             "BookingDate": "14/03/2017 15:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Tie ropes properly, to specifications. (4 Points)"
@@ -181,7 +181,7 @@
             "Time": "1hr",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "14/03/2017 15:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Wash kitchen utensils. (2 Points)",
