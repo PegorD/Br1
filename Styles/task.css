@@ -57,6 +57,14 @@ display:inline-block;
     background-color:#ff0000;
 }
 
+@media screen and (max-width: 980px) {
+.tasklistitem {
+width:40%;
+padding:0.5%;
+display:inline-block;
+}
+}
+
 @media screen and (max-width: 768px) {
 .tasklistitem {
 width:100%;
@@ -65,10 +73,4 @@ display:inline-block;
 }
 }
 
-@media screen and (max-width: 980px) {
-.tasklistitem {
-width:40%;
-padding:0.5%;
-display:inline-block;
-}
-}
+
