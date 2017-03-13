@@ -52,3 +52,15 @@
 .divTableBody {
 	display: table-row-group;
 }
+
+
+@media screen and (max-width: 768px) {
+.headerimage {
+    height: 20%;
+    width: 100%;
+}
+.divTable {
+    display: table;    
+    width:100%;
+}
+}
