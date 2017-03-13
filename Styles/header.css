@@ -62,5 +62,6 @@
 .divTable {
     display: table;    
     width:100%;
+    padding:0%;	
 }
 }
