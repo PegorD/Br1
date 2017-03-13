@@ -117,7 +117,7 @@
             "TaskPoints": "4",
             "Time": "1hr 30min",
             "BookedBy": "Kangaroo Patrol",
-            "BookingDate": "",
+            "BookingDate": "18/03/2017 14:00",
             "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
@@ -142,9 +142,9 @@
             "TaskName": "Lamps",
             "TaskPoints": "4",
             "Time": "1hr 30min",
-            "BookedBy": "Kangaroo Patrol",
+            "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Clean all the lamps. (2 Points)",
@@ -192,9 +192,9 @@
             "TaskName": "Kitchen",
             "TaskPoints": "4",
             "Time": "1hr",
-            "BookedBy": "Kangaroo Patrol",
+            "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Wash kitchen utensils. (2 Points)",
