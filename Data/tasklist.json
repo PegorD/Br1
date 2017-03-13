@@ -50,9 +50,9 @@
             "TaskName": "May Queen Tents",
             "TaskPoints": "5",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "14/03/2017 15:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Sort tent components into groups. (2 Points)",
@@ -155,9 +155,9 @@
             "TaskName": "Ropes for Lashing",
             "TaskPoints": "4",
             "Time": "1hr 30min",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "14/03/2017 15:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Tie ropes properly, to specifications. (4 Points)"
