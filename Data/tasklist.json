@@ -179,9 +179,9 @@
             "TaskName": "Kitchen",
             "TaskPoints": "4",
             "Time": "1hr",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Kangaroo Patrol",
+            "BookingDate": "14/03/2017 15:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Wash kitchen utensils. (2 Points)",
