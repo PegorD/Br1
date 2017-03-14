@@ -89,9 +89,9 @@
             "TaskName": "Board Games",
             "TaskPoints": "4",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Panther Patrol",
+            "BookingDate": "18/03/2017 12:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Sort board games into groups. (2 Points)",
