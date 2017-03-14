@@ -48,15 +48,15 @@
         {
             "TaskID": "3",
             "TaskName": "May Queen Tents",
-            "TaskPoints": "5",
+            "TaskPoints": "7",
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "14/03/2017 15:30",
             "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
-                "Sort tent components into groups. (2 Points)",
-                "Find out how many complete tents there are. (3 Points)"
+                "Sort tent components into groups. (3 Points)",
+                "Find out how many complete tents there are. (4 Points)"
             ]
         },{
             "TaskID": "4",
@@ -118,7 +118,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "14/03/2017 15:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Sort stationary items into groups. (2 Points)",
@@ -131,7 +131,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Horse Patrol",
             "BookingDate": "15/03/2017 13:00",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Inventory all items in the crate. (2 Points)",
