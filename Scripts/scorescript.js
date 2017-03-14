@@ -11,8 +11,8 @@
             $.get('../Data/scorelist.json', function (data) {
                 scores = data['ScoreList'];
                 scores.sort(function (a, b) {
-                    if (parseInt(a.Points) < parseInt(b.Points)) return -1;
-                    if (parseInt(a.Points) > parseInt(b.Points)) return 1;
+                    if (parseInt(a.Points) < parseInt(b.Points)) return 1;
+                    if (parseInt(a.Points) > parseInt(b.Points)) return -1;
                     return 0;
                 });
             })).done(
