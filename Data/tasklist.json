@@ -90,8 +90,8 @@
             "TaskPoints": "4",
             "Time": "2hrs",
             "BookedBy": "Kangaroo Patrol",
-            "BookingDate": "15/03/2017 15:00",
-            "BookingStatus": "Confirmed",
+            "BookingDate": "17/03/2017 15:15",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Sort board games into groups. (2 Points)",
@@ -193,8 +193,8 @@
             "TaskPoints": "4",
             "Time": "1hr",
             "BookedBy": "Kangaroo Patrol",
-            "BookingDate": "15/03/2017 15:00",
-            "BookingStatus": "Confirmed",
+            "BookingDate": "17/03/2017 15:15",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Wash kitchen utensils. (2 Points)",
