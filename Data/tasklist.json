@@ -129,9 +129,9 @@
             "TaskName": "Folks Gathering Crate",
             "TaskPoints": "4",
             "Time": "1hr 30min",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "15/03/2017 13:00",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Inventory all items in the crate. (2 Points)",
