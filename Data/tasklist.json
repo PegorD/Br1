@@ -131,7 +131,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Horse Patrol",
             "BookingDate": "15/03/2017 15:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Inventory all items in the crate. (2 Points)",
@@ -181,7 +181,7 @@
             "Time": "1hr",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "14/03/2017 15:30",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Wash kitchen utensils. (2 Points)",
