@@ -229,7 +229,7 @@
         },{
             "TaskID": "17",
             "TaskName": "Electricity",
-            "TaskPoints": "10",
+            "TaskPoints": "12",
             "Time": "3hrs",
             "BookedBy": "",
             "BookingDate": "",
@@ -238,7 +238,8 @@
             "SubTasks": [
                 "Contact BHS regarding hiring and electrician. (4 Points)",
                 "Install LED lights. (4 Points)",
-                "Install more wall plugs. (4 Points)"
+                "Install more wall plugs. (4 Points)",
+                "Glue safety sponges in the attic. (2 Points)"
             ]
         },{
             "TaskID": "18",
@@ -305,16 +306,66 @@
             "TaskID": "23",
             "TaskName": "Poplar Wood",
             "TaskPoints": "20",
+            "Time": "10hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "This task had to be done over several days.",
+            "SubTasks": [
+                "Remove all the nails from all the poplar wood. (4 Points)",
+                "Saw all the weak poplar wood into 2 meter segements. (4 Points)",
+                "Plaster all the cracks in the wood. (4 Points)",
+                "Varnish all the poplar wood. (8 Points)"
+            ]
+        },{
+            "TaskID": "24",
+            "TaskName": "Flags",
+            "TaskPoints": "2",
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
-                "Remove all the nails and sand saper all the poplar wood. (7 Points)",
-                "Plaster all the cracks in the wood. (5 Points)",
-                "Varnish all the wood. (3 Points)",
-                "Saw all the weak poplar wood into 2 meter segements. (5 Points)"
+                "Clean all of the flags. (1 Point)",
+                "Fold and store, to specifications, all the flags. (1 Point)"
+            ]
+        },{
+            "TaskID": "25",
+            "TaskName": "Tarps",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Properly fold and store all the tarps. (4 Points)"
+            ]
+        },{
+            "TaskID": "26",
+            "TaskName": "Bathroom Tents",
+            "TaskPoints": "2",
+            "Time": "1hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Properly pack and store all the bathroom tents. (2 Points)"
+            ]
+        },{
+            "TaskID": "27",
+            "TaskName": "Kitchen Tent",
+            "TaskPoints": "3",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+                "Pitch the kitchen tent and make sure all its pieces are available. (2 Points)",
+                "Pack the tent and store it. (1 Point)"
             ]
         }
 
