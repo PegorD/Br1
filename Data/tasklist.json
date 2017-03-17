@@ -205,9 +205,9 @@
             "TaskName": "Tents",
             "TaskPoints": "4",
             "Time": "3hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "18/03/2017 12:00",
+            "BookingStatus": "Pending",
             "Comments": "This task is for only 3 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
@@ -347,9 +347,9 @@
             "TaskName": "Bathroom Tents",
             "TaskPoints": "2",
             "Time": "1hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "18/03/2017 12:00",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Properly pack and store all the bathroom tents. (2 Points)"
