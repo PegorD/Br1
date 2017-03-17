@@ -309,7 +309,7 @@
             "Time": "10hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookingStatus": "Unavailable",
             "Comments": "This task had to be done over several days.",
             "SubTasks": [
                 "Remove all the nails from all the poplar wood. (4 Points)",
@@ -366,6 +366,20 @@
             "SubTasks": [
                 "Pitch the kitchen tent and make sure all its pieces are available. (2 Points)",
                 "Pack the tent and store it. (1 Point)"
+            ]
+        },{
+            "TaskID": "28",
+            "TaskName": "Marine Wood",
+            "TaskPoints": "16",
+            "Time": "10hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "This task had to be done over several days.",
+            "SubTasks": [
+               "Remove all the nails from all the marine wood. (4 Points)",
+               "Plaster all the cracks in the marine wood. (4 Points)",
+               "Varnish all the marine wood. (8 Points)"
             ]
         }
 
