@@ -335,9 +335,9 @@
             "TaskName": "Tarps",
             "TaskPoints": "4",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Kangaroo Patrol",
+            "BookingDate": "18/03/2017 13:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Properly fold and store all the tarps. (4 Points)"
@@ -359,9 +359,9 @@
             "TaskName": "Kitchen Tent",
             "TaskPoints": "3",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Kangaroo Patrol",
+            "BookingDate": "18/03/2017 13:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Pitch the kitchen tent and make sure all its pieces are available. (2 Points)",
