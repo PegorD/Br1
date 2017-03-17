@@ -7,7 +7,7 @@
             "Time": "1hrs 30min",
             "BookedBy": "Horse Patrol",
             "BookingDate": "17/03/2017 16:00",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Sort into groups. (1 Point)",
@@ -91,7 +91,7 @@
             "Time": "2hrs",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "17/03/2017 15:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Sort board games into groups. (2 Points)",
