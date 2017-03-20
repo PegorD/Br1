@@ -53,7 +53,7 @@ var tasks = "";
         $tempcode.find('.divTableRow1E').attr('id', tasks[index].TaskID);
         
         switch(tasks[index].BookingStatus) {
-            case Unavailable:
+            case 'Unavailable':
                 $tempcode.find('.divTable1').css('background-color','grey');
                 break;
            default:
