@@ -381,6 +381,32 @@
                "Plaster all the cracks in the marine wood. (4 Points)",
                "Varnish all the marine wood. (8 Points)"
             ]
+        },{
+            "TaskID": "29",
+            "TaskName": "Rope Weaving Toolbox",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+               "Think of a list of items to be included in the toolbox and have it checked. (2 Points)",
+               "Place the items in a toolbox, you may need to purchase items. (2 Points)"
+            ]
+        },{
+            "TaskID": "30",
+            "TaskName": "Pioneering Toolbox",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "",
+            "SubTasks": [
+               "Think of a list of items to be included in the toolbox and have it checked. (2 Points)",
+               "Place the items in a toolbox, you may need to purchase items. (2 Points)"
+            ]
         }
 
     ]
