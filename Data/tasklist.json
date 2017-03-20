@@ -22,7 +22,7 @@
             "Time": "1hrs 30min",
             "BookedBy": "Panther Patrol",
             "BookingDate": "18/03/2017 14:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Sort into groups. (1 Point)",
@@ -52,7 +52,7 @@
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "14/03/2017 15:30",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Sort tent components into groups. (3 Points)",
@@ -144,7 +144,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Panther Patrol",
             "BookingDate": "18/03/2017 12:30",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Clean all the lamps. (2 Points)",
@@ -157,7 +157,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Bee Patrol",
             "BookingDate": "14/03/2017 15:30",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Tie ropes properly, to specifications. (4 Points)"
@@ -194,7 +194,7 @@
             "Time": "1hr",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "17/03/2017 15:15",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Wash kitchen utensils. (2 Points)",
@@ -337,7 +337,7 @@
             "Time": "2hrs",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "18/03/2017 13:30",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Properly fold and store all the tarps. (4 Points)"
@@ -349,7 +349,7 @@
             "Time": "1hrs",
             "BookedBy": "Horse Patrol",
             "BookingDate": "18/03/2017 12:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Properly pack and store all the bathroom tents. (2 Points)"
@@ -361,7 +361,7 @@
             "Time": "2hrs",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "18/03/2017 13:30",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Pitch the kitchen tent and make sure all its pieces are available. (2 Points)",
