@@ -272,9 +272,9 @@
             "TaskName": "Table Cover & Radios",
             "TaskPoints": "4",
             "Time": "30min",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "21/03/2017 15:20",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Get a new transparent cover for the table. (1 Point)",
