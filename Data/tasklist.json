@@ -169,7 +169,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Deer Patrol",
             "BookingDate": "20/03/2017 15:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Tie ropes properly, to specifications. (4 Points)"
