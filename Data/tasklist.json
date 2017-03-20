@@ -79,7 +79,7 @@
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Available",
-            "Comments": "",
+            "Comments": "Take home task.",
             "SubTasks": [
                 "Get a proper first aid kit box or bag. (2 Points)",
                 "Replenish the kit, and purchase missing items. (1 Point)"
@@ -249,7 +249,7 @@
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Available",
-            "Comments": "",
+            "Comments": "Take home task.",
             "SubTasks": [
                 "Contact BHS regarding Internet access and fixing the LAN cable. (1 Point)",
                 "Mend the PC, back up the data on it, and install new OS. (3 Points)"
