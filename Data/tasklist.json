@@ -256,20 +256,21 @@
             ]
         },{
             "TaskID": "19",
-            "TaskName": "Water",
-            "TaskPoints": "3",
-            "Time": "30min",
+            "TaskName": "Poplar Wood Pt.1",
+            "TaskPoints": "8",
+            "Time": "5hrs",
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Unavailable",
             "Comments": "",
             "SubTasks": [
-                "Get a water dispenser, refrigerated or otherwise. (3 Points)"
+                "Remove all the nails from all the poplar wood. (4 Points)",
+                "Saw all the cracked poplar wood into 2 meter segements. (4 Points)"
             ]
         },{
             "TaskID": "20",
             "TaskName": "Table Cover & Radios",
-            "TaskPoints": "3",
+            "TaskPoints": "4",
             "Time": "30min",
             "BookedBy": "",
             "BookingDate": "",
@@ -278,7 +279,8 @@
             "SubTasks": [
                 "Get a new transparent cover for the table. (1 Point)",
                 "Wash the old table cover. (1 Point)",
-                "Find the 2 missing walkie talkies (1 Point)"
+                "Find the 2 missing walkie talkies (1 Point)",
+                "Get a water dispenser gallon from C. Assaad. (1 Point)"
             ]
         },{
             "TaskID": "21",
@@ -306,16 +308,14 @@
             ]
         },{
             "TaskID": "23",
-            "TaskName": "Poplar Wood",
-            "TaskPoints": "20",
-            "Time": "10hrs",
+            "TaskName": "Poplar Wood Pt.2",
+            "TaskPoints": "12",
+            "Time": "5hrs",
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Unavailable",
             "Comments": "This task had to be done over several days.",
-            "SubTasks": [
-                "Remove all the nails from all the poplar wood. (4 Points)",
-                "Saw all the cracked poplar wood into 2 meter segements. (4 Points)",
+            "SubTasks": [                
                 "Plaster all the cracks in the poplar wood. (4 Points)",
                 "Varnish all the poplar wood. (8 Points)"
             ]
@@ -427,9 +427,9 @@
             "TaskName": "Tents",
             "TaskPoints": "4",
             "Time": "3hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "21/03/2017 15:20",
+            "BookingStatus": "Pending",
             "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
