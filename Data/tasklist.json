@@ -269,7 +269,7 @@
         },{
             "TaskID": "20",
             "TaskName": "Table Cover",
-            "TaskPoints": "3",
+            "TaskPoints": "2",
             "Time": "30min",
             "BookedBy": "",
             "BookingDate": "",
@@ -277,7 +277,7 @@
             "Comments": "",
             "SubTasks": [
                 "Get a new transparent cover for the table. (1 Point)",
-                "Wash the old table cover. (2 Points)"
+                "Wash the old table cover. (1 Point)"
             ]
         },{
             "TaskID": "21",
