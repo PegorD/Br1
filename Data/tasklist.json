@@ -273,7 +273,7 @@
             "Time": "30min",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookingStatus": "Unavailable",
             "Comments": "",
             "SubTasks": [
                 "Get a new transparent cover for the table. (1 Point)",
