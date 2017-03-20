@@ -407,6 +407,19 @@
                "Think of a list of items to be included in the toolbox and have it checked. (2 Points)",
                "Place the items in a toolbox, you may need to purchase items. (2 Points)"
             ]
+        },{
+            "TaskID": "31",
+            "TaskName": "Tents",
+            "TaskPoints": "4",
+            "Time": "3hrs",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "24/03/2017 15:15",
+            "BookingStatus": "Pending",
+            "Comments": "This task is for only 3 tents.",
+            "SubTasks": [
+                "Clean and dry tents. (1 Point)",
+                "Properly fold tents and store them. (3 Points)"
+            ]
         }
 
     ]
