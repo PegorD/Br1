@@ -268,7 +268,7 @@
             ]
         },{
             "TaskID": "20",
-            "TaskName": "Table Cover & Walkie Talkies",
+            "TaskName": "Table Cover & Radios",
             "TaskPoints": "3",
             "Time": "30min",
             "BookedBy": "",
@@ -385,7 +385,7 @@
             ]
         },{
             "TaskID": "29",
-            "TaskName": "Weaving & Pioneering Toolbox",
+            "TaskName": "Pioneering Toolbox",
             "TaskPoints": "4",
             "Time": "2hrs",
             "BookedBy": "Bear Patrol",
