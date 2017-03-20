@@ -60,13 +60,13 @@ var tasks = "";
                 $tempcode.find('.divTable1').css('background-color','white');
                 break;
             case 'Pending':
-                $tempcode.find('.divTable1').css('background-color','oragne');
+                $tempcode.find('.divTable1').css('background-color','orange');
                 break;
             case 'Booked':
-                $tempcode.find('.divTable1').css('background-color','blue');
+                $tempcode.find('.divTable1').css('background-color','#0066FF');
                 break;
             case 'Completed':
-                $tempcode.find('.divTable1').css('background-color','green');
+                $tempcode.find('.divTable1').css('background-color','#33CC33');
                 break;
            default:
                 $tempcode.find('.divTable1').css('background-color','white');
