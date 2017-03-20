@@ -165,7 +165,7 @@
         },{
             "TaskID": "12",
             "TaskName": "Ropes for Weaving",
-            "TaskPoints": "4",
+            "TaskPoints": "5",
             "Time": "1hr 30min",
             "BookedBy": "Deer Patrol",
             "BookingDate": "20/03/2017 15:30",
@@ -208,7 +208,7 @@
             "BookedBy": "Bee Patrol",
             "BookingDate": "20/03/2017 15:15",
             "BookingStatus": "Booked",
-            "Comments": "This task is for only 3 tents.",
+            "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
                 "Properly fold tents and store them. (3 Points)"
@@ -221,7 +221,7 @@
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "22/03/2017 15:15",
             "BookingStatus": "Pending",
-            "Comments": "This task is for only 3 tents.",
+            "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
                 "Properly fold tents and store them. (3 Points)"
@@ -415,7 +415,20 @@
             "BookedBy": "Bee Patrol",
             "BookingDate": "24/03/2017 15:15",
             "BookingStatus": "Pending",
-            "Comments": "This task is for only 3 tents.",
+            "Comments": "This task is for only 2 tents.",
+            "SubTasks": [
+                "Clean and dry tents. (1 Point)",
+                "Properly fold tents and store them. (3 Points)"
+            ]
+        },{
+            "TaskID": "31",
+            "TaskName": "Tents",
+            "TaskPoints": "4",
+            "Time": "3hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Available",
+            "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
                 "Properly fold tents and store them. (3 Points)"
