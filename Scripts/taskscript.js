@@ -75,7 +75,11 @@ var tasks = "";
         return $tempcode.html();
     }
 
-
+$(document).keyup(function(e) {
+     if (e.keyCode == 27) { 
+       $('.modal').css('display','none');
+    }
+});
    
 
 })();
