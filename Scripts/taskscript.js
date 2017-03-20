@@ -51,6 +51,14 @@ var tasks = "";
         $tempcode.find('.SubTasks').append(subtasks);
         $tempcode.find('.Comments').text(tasks[index].Comments);
         $tempcode.find('.divTableRow1E').attr('id', tasks[index].TaskID);
+        
+        switch(tasks[index].BookingStatus) {
+            case Unavailable:
+                $tempcode.find('.divTable1').css('background-color','grey');
+                break;
+           default:
+                $tempcode.find('.divTable1').css('background-color','white');
+} 
 
         return $tempcode.html();
     }
