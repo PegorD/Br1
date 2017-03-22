@@ -440,7 +440,7 @@
             "Time": "1hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "",
+            "BookingStatus": "Available",
             "Comments": "T",
             "SubTasks": [
                 "Make an inventory list of all the tools in the den. (3 Points)"
