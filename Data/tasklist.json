@@ -440,7 +440,7 @@
             "Time": "1hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "25/03/2017 12:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Make an inventory list of all the tools in the den. (3 Points)"
