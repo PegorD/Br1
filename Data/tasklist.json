@@ -451,7 +451,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "",
+            "BookingStatus": "Unavailable",
             "Comments": "",
             "SubTasks": [
                 "Design and build a staircase style stand for the awards. (3 Points)",
