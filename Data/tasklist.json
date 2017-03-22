@@ -99,7 +99,7 @@
             ]
         },{
             "TaskID": "7",
-            "TaskName": "Awards",
+            "TaskName": "Awards Pt.1",
             "TaskPoints": "4",
             "Time": "1hr 30min",
             "BookedBy": "",
@@ -107,9 +107,8 @@
             "BookingStatus": "Unavailable",
             "Comments": "",
             "SubTasks": [
-                "Clean all of the awards. (1 Point)",
-                "Mend all broken awards. (2 Points)",
-                "Place all the awards in the glass cabinet. (1 Point)"
+                "Clean all of the awards. (2 Points)",
+                "Mend all broken awards. (2 Points)"
             ]
         },{
             "TaskID": "8",
@@ -444,6 +443,19 @@
             "Comments": "",
             "SubTasks": [
                 "Make an inventory list of all the tools in the den. (3 Points)"
+            ]
+        },{
+            "TaskID": "34",
+            "TaskName": "Awards Pt.2",
+            "TaskPoints": "4",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "",
+            "Comments": "",
+            "SubTasks": [
+                "Design and build a staircase style stand for the awards. (3 Points)",
+                "Place the stand and display the awards in the glass cabinet. (1 Point)"
             ]
         }
 
