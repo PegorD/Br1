@@ -230,9 +230,9 @@
             "TaskName": "Glass Cabinets",
             "TaskPoints": "3",
             "Time": "1hrs",
-            "BookedBy": " Horse  Patrol",
-            "BookingDate": "22/03/2015 16 :00",
-            "BookingStatus": " Booked",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "22/03/2015 16:00",
+            "BookingStatus": "Booked",
             "Comments": "Cardboard boxes are not available, so bring your own.",
             "SubTasks": [
                 "Removes the files in the glass cabinets and put them in cardboard boxes. (2 Points)",
