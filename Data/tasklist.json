@@ -38,7 +38,7 @@
             "Time": "2hrs",
             "BookedBy": "Horse Patrol",
             "BookingDate": "17/03/2017 16:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Design it. (2 Points)",
@@ -228,18 +228,16 @@
             ]
         },{
             "TaskID": "17",
-            "TaskName": "Electricity",
-            "TaskPoints": "12",
-            "Time": "3hrs",
+            "TaskName": "Glass Cabinets",
+            "TaskPoints": "3",
+            "Time": "1hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
-            "Comments": "",
+            "BookingStatus": "Available",
+            "Comments": "Cardboard boxes must be brought by the patrol.",
             "SubTasks": [
-                "Contact BHS regarding hiring and electrician. (4 Points)",
-                "Install LED lights. (4 Points)",
-                "Install more wall plugs. (4 Points)",
-                "Glue safety sponges in the attic. (2 Points)"
+                "Removes the files in the glass cabinets and put them in boxes. (2 Points)",
+                "Store the boxes in the Junk Space. (1 Point)"
             ]
         },{
             "TaskID": "18",
@@ -435,7 +433,20 @@
                 "Clean and dry tents. (1 Point)",
                 "Properly fold tents and store them. (3 Points)"
             ]
+        },{
+            "TaskID": "33",
+            "TaskName": "Tools Inventory",
+            "TaskPoints": "3",
+            "Time": "1hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "",
+            "Comments": "T",
+            "SubTasks": [
+                "Make an inventory list of all the tools in the den. (3 Points)"
+            ]
         }
+
 
     ]
 }
