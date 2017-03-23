@@ -219,7 +219,7 @@
             "Time": "3hrs",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "22/03/2017 15:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
@@ -426,7 +426,7 @@
             "Time": "3hrs",
             "BookedBy": "Horse Patrol",
             "BookingDate": "21/03/2017 15:20",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
