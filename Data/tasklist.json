@@ -447,7 +447,7 @@
         },{
             "TaskID": "34",
             "TaskName": "Awards Pt.2",
-            "TaskPoints": "4",
+            "TaskPoints": "5",
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
@@ -455,7 +455,8 @@
             "Comments": "",
             "SubTasks": [
                 "Design and build a staircase style stand for the awards. (3 Points)",
-                "Place the stand and display the awards in the glass cabinet. (1 Point)"
+                "Place the stand and display the awards in the glass cabinet. (1 Point)",
+                "Clean the glass cabinet. (1 Point)"
             ]
         }
 
