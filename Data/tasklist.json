@@ -65,7 +65,7 @@
             "Time": "2hrs",
             "BookedBy": "Deer Patrol",
             "BookingDate": "25/03/2017 14:00",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Create a sample belt, to specifications, to tie logs together. (3 Points)",
@@ -78,7 +78,7 @@
             "Time": "1hr",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "22/03/2017 15:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "Take home task.",
             "SubTasks": [
                 "Get a proper first aid kit box or bag. (2 Points)",
@@ -271,7 +271,7 @@
             "Time": "30min",
             "BookedBy": "Horse Patrol",
             "BookingDate": "21/03/2017 15:20",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Get a new transparent cover for the table. (1 Point)",
@@ -387,7 +387,7 @@
             "Time": "2hrs",
             "BookedBy": "Bear Patrol",
             "BookingDate": "25/03/2017 18:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                "Think of a list of items to be included in the toolbox and have it checked. (2 Points)",
@@ -439,7 +439,7 @@
             "Time": "1hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "25/03/2017 12:00",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Make an inventory list of all the tools in the den. (3 Points)"
