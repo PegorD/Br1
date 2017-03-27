@@ -323,7 +323,7 @@
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "24/03/2017 15:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Clean all of the flags. (1 Point)",
@@ -400,7 +400,7 @@
             "Time": "2hrs",
             "BookedBy": "Bear Patrol",
             "BookingDate": "25/03/2017 18:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                "Think of a list of items to be included in the toolbox and have it checked. (2 Points)",
@@ -413,7 +413,7 @@
             "Time": "3hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "24/03/2017 15:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "This task is for only 2 tents.",
             "SubTasks": [
                 "Clean and dry tents. (1 Point)",
@@ -435,7 +435,7 @@
         },{
             "TaskID": "33",
             "TaskName": "Tools Inventory",
-            "TaskPoints": "3",
+            "TaskPoints": "6",
             "Time": "1hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "25/03/2017 12:00",
