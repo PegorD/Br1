@@ -1,4 +1,4 @@
-﻿{
+{
     "TaskList": [
         {
             "TaskID": "0",
@@ -458,7 +458,7 @@
             "TaskID": "35",
             "TaskName": "Empty Bear Patrol Corner",
             "TaskPoints": "2",
-            "Time": "1hrs",
+            "Time": "1hr",
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Unavailable",
