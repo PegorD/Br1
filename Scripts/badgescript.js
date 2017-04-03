@@ -29,7 +29,7 @@ var badges = "";
         
 		tempcode='<div style="display:inline-block">';
 		
-		tempcode+=badges[index].Name; 
+		tempcode+=badges[index].Name+ '<br />'; 
        
         var i = 0;
         for (i = 1; i < badges[index].Assigned.length; i++) {
