@@ -35,7 +35,7 @@ var badges = "";
         for (i = 1; i < badges[index].Assigned.length; i++) {
             tempcode += badges[index].Assigned[i] + '<br />';
         }
-       tempcode='</div>';
+       tempcode+='</div>';
        return tempcode;
     }
   
