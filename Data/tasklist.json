@@ -78,7 +78,7 @@
             "Time": "1hr",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "22/03/2017 15:15",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "Take home task.",
             "SubTasks": [
                 "Get a proper first aid kit box or bag. (2 Points)",
@@ -245,7 +245,7 @@
             "Time": "2hrs",
             "BookedBy": "Deer Patrol",
             "BookingDate": "18/03/2017 18:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "Take home task.",
             "SubTasks": [
                 "Contact BHS regarding Internet access and fixing the LAN cable. (1 Point)",
@@ -254,15 +254,14 @@
         },{
             "TaskID": "19",
             "TaskName": "Poplar Wood Pt.1",
-            "TaskPoints": "8",
-            "Time": "5hrs",
+            "TaskPoints": "4",
+            "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Unavailable",
-            "Comments": "This task had to be done over several days.",
+            "Comments": "",
             "SubTasks": [
-                "Remove all the nails from all the poplar wood. (4 Points)",
-                "Saw all the cracked poplar wood into 2 meter segements. (4 Points)"
+                "Remove all the nails from all the poplar wood. (4 Points)"
             ]
         },{
             "TaskID": "20",
@@ -306,15 +305,14 @@
         },{
             "TaskID": "23",
             "TaskName": "Poplar Wood Pt.2",
-            "TaskPoints": "12",
-            "Time": "5hrs",
+            "TaskPoints": "4",
+            "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Unavailable",
-            "Comments": "This task had to be done over several days.",
+            "Comments": "",
             "SubTasks": [                
-                "Plaster all the cracks in the poplar wood. (4 Points)",
-                "Varnish all the poplar wood. (8 Points)"
+                "Saw all the cracked poplar wood into smaller segements. (4 Points)"
             ]
         },{
             "TaskID": "24",
@@ -368,17 +366,15 @@
             ]
         },{
             "TaskID": "28",
-            "TaskName": "Marine Wood",
-            "TaskPoints": "16",
-            "Time": "10hrs",
+            "TaskName": "Marine Wood Pt.1",
+            "TaskPoints": "4",
+            "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Unavailable",
-            "Comments": "This task had to be done over several days.",
+            "Comments": "",
             "SubTasks": [
-               "Remove all the nails from all the marine wood. (4 Points)",
-               "Plaster all the cracks in the marine wood. (4 Points)",
-               "Varnish all the marine wood. (8 Points)"
+               "Remove all the nails from all the marine wood. (4 Points)"
             ]
         },{
             "TaskID": "29",
@@ -457,6 +453,67 @@
                 "Design and build a staircase style stand for the awards. (3 Points)",
                 "Place the stand and display the awards in the glass cabinet. (1 Point)",
                 "Clean the glass cabinet. (1 Point)"
+            ]
+        },{
+            "TaskID": "35",
+            "TaskName": "Empty Bear Patrol Corner",
+            "TaskPoints": "2",
+            "Time": "1hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Remove all items that don't belong to the Bear Patrol from their corner. (1 Point)",
+                "Store removed items in designated space. (1 Point)"
+            ]
+        },{
+            "TaskID": "36",
+            "TaskName": "Poplar Wood Pt.3",
+            "TaskPoints": "12",
+            "Time": "6hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Sandpaper all the poplar wood. (12 Points)"
+            ]
+        }{
+            "TaskID": "37",
+            "TaskName": "Poplar Wood Pt.4",
+            "TaskPoints": "8",
+            "Time": "4hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+                "Varnish all the poplar wood. (8 Points)"
+            ]
+        },{
+            "TaskID": "38",
+            "TaskName": "Marine Wood Pt.2",
+            "TaskPoints": "10",
+            "Time": "4hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+               "Sandpaper all the marine wood. (10 Points)"
+            ]
+        },{
+            "TaskID": "39",
+            "TaskName": "Marine Wood Pt.3",
+            "TaskPoints": "6",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+               "Varnish all the marine wood. (6 Points)"
             ]
         }
 
