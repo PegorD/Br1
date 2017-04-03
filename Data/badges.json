@@ -1,0 +1,79 @@
+{
+    "Badges": [
+        {
+            "Name": "C. Omar",
+            "Assigned": [
+                "Animal Carer",
+				"Backwoods Cooking",
+				"Chef",
+				"Disability Awareness",
+				"Entertainer",
+				"Equestrian",
+				"Home Help",
+				"Physical Recreation",
+				"Skater",
+				"Nights Away",
+				"Hobbies"
+            ]
+        },{
+            "Name": "C. Assaad",
+            "Assigned": [
+                "Athletics",
+				"Athletics Plus",
+				"Fire Safety",
+				"Local Knowledge",
+				"Martial Arts",
+				"Naturalist",
+				"Water Activities",
+				"Hikes Away",
+				"Navigator",
+				"Paddle Sports",
+				"Swimmer",
+				"Hobbies"
+            ]
+        },{
+            "Name": "C. Pegor",
+            "Assigned": [
+                "Astronomer",
+				"Book Reader",
+				"Communicator",
+				"Global Issues",
+				"Home Safety",
+				"Personal Safety",
+				"Road Safety",
+				"Scientist",
+				"Air Activities",
+				"Digital Citizen",
+				"Digital Maker",
+				"Hobbies"
+            ]
+        },{
+            "Name": "C. Tony",
+            "Assigned": [
+                "Cyclist",
+				"Environmental Conservation",
+				"My Faith",
+				"Sport Enthusiast",
+				"Community Impact",
+				"Emergency Aid",
+				"Nautical Skills",
+				"Sailing",
+				"Time on the Water",
+				"Hobbies"
+            ]
+        },{
+            "Name": "C. Andrea",
+            "Assigned": [
+				"Artist",
+				"Collector",
+				"DYI",
+				"International",
+				"Photographer",
+				"Pioneer",
+				"World Faiths",
+				"Musician",
+				"Hobbies"
+            ]
+        }
+	]
+}
