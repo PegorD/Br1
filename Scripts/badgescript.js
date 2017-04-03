@@ -8,7 +8,7 @@ var badges = "";
         var htmlcode = '';
 
         $.when(
-            $.get('../Data/badges.json', function (data) {
+            $.get('Data/badges.json', function (data) {
                 badges = data['Badges'];         
             })).done(
             function () {
