@@ -36,7 +36,7 @@ var badges = "";
             tempcode += badges[index].Assigned[i] + '<br />';
         }
        tempcode='</div>';
-       return $tempcode.html();
+       return tempcode;
     }
   
 
