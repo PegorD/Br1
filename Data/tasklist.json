@@ -457,7 +457,7 @@
         },{
             "TaskID": "35",
             "TaskName": "Empty Bear Patrol Corner",
-            "TaskPoints": "2",
+            "TaskPoints": "3",
             "Time": "1hr",
             "BookedBy": "",
             "BookingDate": "",
@@ -465,7 +465,7 @@
             "Comments": "",
             "SubTasks": [
                 "Remove all items that don't belong to the Bear Patrol from their corner. (1 Point)",
-                "Store removed items in designated space. (1 Point)"
+                "Store removed items in designated space. (2 Points)"
             ]
         },{
             "TaskID": "36",
