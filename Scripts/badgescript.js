@@ -27,7 +27,7 @@ var badges = "";
     function createColumn(index) {
         var tempcode = '';
         
-		tempcode='<div class="badge" style="display:inline-block">';
+		tempcode='<div class="badge">';
 		
 		tempcode+=badges[index].Name+ '<br />'; 
        
