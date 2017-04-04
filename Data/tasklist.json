@@ -515,6 +515,30 @@
             "SubTasks": [
                "Varnish all the marine wood. (6 Points)"
             ]
+        },{
+            "TaskID": "40",
+            "TaskName": "Clear Out Storage Area",
+            "TaskPoints": "6",
+            "Time": "2hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+               "Clear out the area next to the den. (6 Points)"
+            ]
+        },{
+            "TaskID": "41",
+            "TaskName": "Prepare Storage Area",
+            "TaskPoints": "10",
+            "Time": "4hrs",
+            "BookedBy": "",
+            "BookingDate": "",
+            "BookingStatus": "Unavailable",
+            "Comments": "",
+            "SubTasks": [
+               "Prepare the are next to the den for storage. (10 Points)"
+            ]
         }
 
 
