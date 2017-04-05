@@ -436,7 +436,7 @@
             "BookedBy": "Bee Patrol",
             "BookingDate": "25/03/2017 12:00",
             "BookingStatus": "Booked",
-            "Comments": "",
+            "Comments": "In Progress Task",
             "SubTasks": [
                 "Make an inventory list of all the tools in the den. (3 Points)"
             ]
@@ -456,7 +456,7 @@
             ]
         },{
             "TaskID": "35",
-            "TaskName": "Empty Bear Patrol Corner",
+            "TaskName": "Empty Patrol(s) Corner",
             "TaskPoints": "3",
             "Time": "1hr",
             "BookedBy": "",
@@ -464,7 +464,7 @@
             "BookingStatus": "Unavailable",
             "Comments": "",
             "SubTasks": [
-                "Remove all items that don't belong to the Bear Patrol from their corner. (1 Point)",
+                "Remove all items that don't belong to the Patrol(s) from their corner. (1 Point)",
                 "Store removed items in designated space. (2 Points)"
             ]
         },{
