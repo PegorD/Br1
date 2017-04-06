@@ -459,9 +459,9 @@
             "TaskName": "Empty Patrol(s) Corner(s)",
             "TaskPoints": "3",
             "Time": "1hr",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Horse Patrol",
+            "BookingDate": "07/04/2017 15:45",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Remove all items that don't belong to the Patrol(s) from their corner(s). (1 Point)",
