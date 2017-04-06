@@ -102,9 +102,9 @@
             "TaskName": "Awards Pt.1",
             "TaskPoints": "4",
             "Time": "1hr 30min",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "08/04/2017 13:00",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Clean all of the awards. (2 Points)",
