@@ -461,7 +461,7 @@
             "Time": "1hr",
             "BookedBy": "Horse Patrol",
             "BookingDate": "07/04/2017 15:45",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Remove all items that don't belong to the Patrol(s) from their corner(s). (1 Point)",
