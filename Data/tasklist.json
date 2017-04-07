@@ -258,7 +258,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Remove all the nails from all the poplar wood. (4 Points)"
@@ -309,7 +309,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [                
                 "Saw all the cracked poplar wood into smaller segements. (4 Points)"
@@ -371,7 +371,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                "Remove all the nails from all the marine wood. (4 Points)"
@@ -474,7 +474,7 @@
             "Time": "6hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Sandpaper all the poplar wood. (12 Points)"
@@ -498,7 +498,7 @@
             "Time": "4hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                "Sandpaper all the marine wood. (10 Points)"
