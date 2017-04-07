@@ -310,7 +310,7 @@
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Available",
-            "Comments": "",
+            "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [                
                 "Saw all the cracked poplar wood into smaller segements. (4 Points)"
             ]
@@ -475,7 +475,7 @@
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Available",
-            "Comments": "",
+            "Comments": "Teams are allowed to start with this task after part 2 is complete.",
             "SubTasks": [
                 "Sandpaper all the poplar wood. (12 Points)"
             ]
@@ -499,7 +499,7 @@
             "BookedBy": "",
             "BookingDate": "",
             "BookingStatus": "Available",
-            "Comments": "",
+            "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [
                "Sandpaper all the marine wood. (10 Points)"
             ]
