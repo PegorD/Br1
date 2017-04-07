@@ -36,20 +36,20 @@ var tasks = "";
 
         var $tempcode = $(tempcode);
 
-        $tempcode.find('.TaskID').text(tasks[index].TaskID);
+        //$tempcode.find('.TaskID').text(tasks[index].TaskID);
         $tempcode.find('.TaskName').text(tasks[index].TaskName);
         $tempcode.find('.Points').text(tasks[index].TaskPoints);
-        $tempcode.find('.Time').text(tasks[index].Time);
-        $tempcode.find('.BookedBy').text(tasks[index].BookedBy);
-        $tempcode.find('.BookDate').text(tasks[index].BookingDate);
+        //$tempcode.find('.Time').text(tasks[index].Time);
+        //$tempcode.find('.BookedBy').text(tasks[index].BookedBy);
+       // $tempcode.find('.BookDate').text(tasks[index].BookingDate);
         $tempcode.find('.BookingStatus').text(tasks[index].BookingStatus);
-        var subtasks = '';
-        var i = 0;
-        for (i = 1; i < tasks[index].SubTasks.length; i++) {
-            subtasks += tasks[index].SubTasks[i] + '<br />';
-        }
-        $tempcode.find('.SubTasks').append(subtasks);
-        $tempcode.find('.Comments').text(tasks[index].Comments);
+       // var subtasks = '';
+       // var i = 0;
+       // for (i = 1; i < tasks[index].SubTasks.length; i++) {
+          //  subtasks += tasks[index].SubTasks[i] + '<br />';
+      //  }
+       // $tempcode.find('.SubTasks').append(subtasks);
+      //  $tempcode.find('.Comments').text(tasks[index].Comments);
         $tempcode.find('.divTableRow1E').attr('id', tasks[index].TaskID);
         
         switch(tasks[index].BookingStatus) {
