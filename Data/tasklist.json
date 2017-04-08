@@ -369,8 +369,8 @@
             "TaskName": "Marine Wood Pt.1",
             "TaskPoints": "4",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
+            "BookedBy": "Kangaroo Patrol",
+            "BookingDate": "08/04/2017 13:00",
             "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
