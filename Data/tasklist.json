@@ -285,7 +285,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Clean the attic. (7 Points)"
@@ -297,7 +297,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Clean the den. (4 Points)"
@@ -447,7 +447,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Design and build a staircase style stand for the awards. (3 Points)",
@@ -486,7 +486,7 @@
             "Time": "4hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                 "Varnish all the poplar wood. (8 Points)"
@@ -510,7 +510,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                "Varnish all the marine wood. (6 Points)"
@@ -522,7 +522,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                "Clear out the area next to the den. (6 Points)"
@@ -534,7 +534,7 @@
             "Time": "4hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Unavailable",
+            "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
                "Prepare the are next to the den for storage. (10 Points)"
