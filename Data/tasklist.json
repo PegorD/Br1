@@ -283,9 +283,9 @@
             "TaskName": "Attic Cleaning",
             "TaskPoints": "7",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "10/04/2017 15:15",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                 "Clean the attic. (7 Points)"
