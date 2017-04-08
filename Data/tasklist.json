@@ -522,7 +522,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookingStatus": "Unavailable",
             "Comments": "",
             "SubTasks": [
                "Clear out the area next to the den. (6 Points)"
