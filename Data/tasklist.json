@@ -517,7 +517,7 @@
             ]
         },{
             "TaskID": "40",
-            "TaskName": "Clear Out Storage Area",
+            "TaskName": "Clear Storage Area",
             "TaskPoints": "6",
             "Time": "2hrs",
             "BookedBy": "",
