@@ -104,7 +104,7 @@
             "Time": "1hr 30min",
             "BookedBy": "Bee Patrol",
             "BookingDate": "08/04/2017 13:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Clean all of the awards. (2 Points)",
@@ -270,7 +270,7 @@
             "Time": "30min",
             "BookedBy": "Horse Patrol",
             "BookingDate": "21/03/2017 15:20",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Get a new transparent cover for the table. (1 Point)",
@@ -371,7 +371,7 @@
             "Time": "2hrs",
             "BookedBy": "",
             "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                "Remove all the nails from all the marine wood. (4 Points)"
