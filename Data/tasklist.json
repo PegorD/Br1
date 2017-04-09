@@ -496,9 +496,9 @@
             "TaskName": "Marine Wood Pt.2",
             "TaskPoints": "10",
             "Time": "4hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Kangaroo Patrol",
+            "BookingDate": "11/04/2017 15:30",
+            "BookingStatus": "Pending",
             "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [
                "Sandpaper all the marine wood. (10 Points)"
