@@ -256,12 +256,12 @@
             "TaskName": "Poplar Wood Pt.1",
             "TaskPoints": "8",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "12/09/2017 14:30",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
-                "Remove all the nails from all the poplar wood. (4 Points)"
+                "Remove all the nails from all the poplar wood. (8 Points)"
             ]
         },{
             "TaskID": "20",
@@ -285,7 +285,7 @@
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "11/04/2017 15:15",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Clean the attic. (7 Points)"
@@ -477,7 +477,7 @@
             "BookingStatus": "Available",
             "Comments": "Teams are allowed to start with this task after part 2 is complete.",
             "SubTasks": [
-                "Sandpaper all the poplar wood. (12 Points)"
+                "Sandpaper all the poplar wood. (18 Points)"
             ]
         },{
             "TaskID": "37",
@@ -489,7 +489,7 @@
             "BookingStatus": "Available",
             "Comments": "",
             "SubTasks": [
-                "Varnish all the poplar wood. (8 Points)"
+                "Varnish all the poplar wood. (12 Points)"
             ]
         },{
             "TaskID": "38",
