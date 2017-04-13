@@ -308,7 +308,7 @@
             "TaskPoints": "4",
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
-            "BookingDate": "14/04/2017 12;30",
+            "BookingDate": "14/04/2017 12:30",
             "BookingStatus": "Pending",
             "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [                
