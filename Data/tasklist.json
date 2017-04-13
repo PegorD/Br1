@@ -293,23 +293,23 @@
         },{
             "TaskID": "22",
             "TaskName": "Den Cleaning",
-            "TaskPoints": "4",
+            "TaskPoints": "6",
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "13/04/2017 15:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
-                "Clean the den. (4 Points)"
+                "Clean the den. (6 Points)"
             ]
         },{
             "TaskID": "23",
             "TaskName": "Poplar Wood Pt.2",
             "TaskPoints": "4",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "14/04/2017 12;30",
+            "BookingStatus": "Pending",
             "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [                
                 "Saw all the cracked poplar wood into smaller segements. (4 Points)"
@@ -498,7 +498,7 @@
             "Time": "4hrs",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "11/04/2017 15:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [
                "Sandpaper all the marine wood. (12 Points)"
@@ -509,7 +509,7 @@
             "TaskPoints": "6",
             "Time": "2hrs",
             "BookedBy": "Kangaroo Patrol",
-            "BookingDate": "15/04/2017 13:00",
+            "BookingDate": "14/04/2017 16:00",
             "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
