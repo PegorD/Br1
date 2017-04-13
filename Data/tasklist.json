@@ -258,7 +258,7 @@
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "12/09/2017 14:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                 "Remove all the nails from all the poplar wood. (8 Points)"
@@ -295,9 +295,9 @@
             "TaskName": "Den Cleaning",
             "TaskPoints": "4",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Bee Patrol",
+            "BookingDate": "13/04/2017 15:00",
+            "BookingStatus": "Booked",
             "Comments": "",
             "SubTasks": [
                 "Clean the den. (4 Points)"
@@ -508,9 +508,9 @@
             "TaskName": "Marine Wood Pt.3",
             "TaskPoints": "6",
             "Time": "2hrs",
-            "BookedBy": "",
-            "BookingDate": "",
-            "BookingStatus": "Available",
+            "BookedBy": "Kangaroo Patrol",
+            "BookingDate": "15/04/2017 13:00",
+            "BookingStatus": "Pending",
             "Comments": "",
             "SubTasks": [
                "Varnish all the marine wood. (6 Points)"
