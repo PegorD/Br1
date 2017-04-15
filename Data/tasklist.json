@@ -309,7 +309,7 @@
             "Time": "2hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "14/04/2017 12:30",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "Teams are allowed to start with this task after part 1 is complete.",
             "SubTasks": [                
                 "Saw all the cracked poplar wood into smaller segements. (4 Points)"
@@ -435,7 +435,7 @@
             "Time": "1hrs",
             "BookedBy": "Bee Patrol",
             "BookingDate": "25/03/2017 12:00",
-            "BookingStatus": "Booked",
+            "BookingStatus": "Completed",
             "Comments": "In Progress Task",
             "SubTasks": [
                 "Make an inventory list of all the tools in the den. (3 Points)"
@@ -510,7 +510,7 @@
             "Time": "2hrs",
             "BookedBy": "Kangaroo Patrol",
             "BookingDate": "14/04/2017 16:00",
-            "BookingStatus": "Pending",
+            "BookingStatus": "Completed",
             "Comments": "",
             "SubTasks": [
                "Varnish all the marine wood. (6 Points)"
